@@ -25,7 +25,7 @@ const Contact = () => {
       color: "bg-blue-100 text-blue-600"
     },
     {
-      icon: MapPinIcon,
+      icon: LocationMarkerIcon,
       title: "Localisation",
       details: "Secteur 27-28",
       link: "#",
