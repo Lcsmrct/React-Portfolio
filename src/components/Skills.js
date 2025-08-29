@@ -1,13 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
-  WrenchScrewdriverIcon, 
   CogIcon, 
+  GlobeIcon, 
   TruckIcon, 
   ComputerDesktopIcon,
-  CheckBadgeIcon,
-  ClipboardDocumentCheckIcon
-} from '@heroicons/react/24/outline';
+  BadgeCheckIcon,
+  ClipboardCheckIcon
+} from '@heroicons/react/outline';
 
 const Skills = () => {
   const [isVisible, setIsVisible] = useState(false);
