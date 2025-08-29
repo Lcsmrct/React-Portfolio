@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { 
-  EnvelopeIcon, 
-  MapPinIcon, 
+  MailIcon, 
+  LocationMarkerIcon, 
   ClockIcon,
   UserIcon,
-  ChatBubbleLeftRightIcon
-} from '@heroicons/react/24/outline';
+  ChatAlt2Icon
+} from '@heroicons/react/outline';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
