@@ -24,7 +24,7 @@ const About = () => {
 
   const stats = [
     {
-      icon: WrenchScrewdriverIcon,
+      icon: CogIcon,
       number: "1+",
       label: "Année d'expérience",
       color: "text-primary-500"
