@@ -57,7 +57,7 @@ const Services = () => {
       iconColor: "text-orange-600"
     },
     {
-      icon: ClipboardDocumentCheckIcon,
+      icon: ClipboardCheckIcon,
       title: "Contrôle Qualité",
       description: "Vérifications minutieuses et tests de performance pour garantir la qualité et la sécurité de chaque intervention.",
       features: ["Tests performance", "Contrôle sécurité", "Vérifications", "Validation"],
