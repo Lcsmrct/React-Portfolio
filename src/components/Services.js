@@ -30,7 +30,7 @@ const Services = () => {
       iconColor: "text-green-600"
     },
     {
-      icon: CogIcon,
+      icon: GlobeIcon,
       title: "Réparation Moteur",
       description: "Intervention sur les moteurs essence et diesel, de la maintenance préventive aux réparations complexes.",
       features: ["Distribution", "Culasse", "Joints", "Pistons"],
