@@ -50,7 +50,7 @@ const Skills = () => {
     {
       name: "Systèmes de Freinage",
       level: 65,
-      icon: CheckBadgeIcon,
+      icon: BadgeCheckIcon,
       color: "from-red-500 to-rose-500"
     },
     {
