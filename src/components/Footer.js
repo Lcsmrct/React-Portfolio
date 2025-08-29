@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { HeartIcon } from '@heroicons/react/24/solid';
+import { HeartIcon } from '@heroicons/react/solid';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
