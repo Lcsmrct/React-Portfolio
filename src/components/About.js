@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { WrenchScrewdriverIcon, AcademicCapIcon, TrophyIcon } from '@heroicons/react/24/outline';
+import { CogIcon, AcademicCapIcon, StarIcon } from '@heroicons/react/outline';
 
 const About = () => {
   const containerVariants = {
