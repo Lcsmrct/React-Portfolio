@@ -62,7 +62,7 @@ const Skills = () => {
     {
       name: "Contrôle Qualité",
       level: 85,
-      icon: ClipboardDocumentCheckIcon,
+      icon: ClipboardCheckIcon,
       color: "from-teal-500 to-cyan-500"
     }
   ];
