@@ -138,7 +138,7 @@ const Experience = () => {
                     
                     <h3 className="text-xl font-bold text-gray-800 mb-2">{item.title}</h3>
                     <div className="flex items-center text-gray-600 mb-3">
-                      <MapPinIcon className="w-4 h-4 mr-2" />
+                      <LocationMarkerIcon className="w-4 h-4 mr-2" />
                       <span className="text-sm">{item.company} • {item.location}</span>
                     </div>
                     
