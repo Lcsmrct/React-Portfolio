@@ -2,11 +2,11 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { 
   CalendarIcon, 
-  MapPinIcon, 
-  WrenchScrewdriverIcon,
+  LocationMarkerIcon, 
+  CogIcon,
   AcademicCapIcon,
   StarIcon
-} from '@heroicons/react/24/outline';
+} from '@heroicons/react/outline';
 
 const Experience = () => {
   const timeline = [
