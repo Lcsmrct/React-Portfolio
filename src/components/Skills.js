@@ -32,7 +32,7 @@ const Skills = () => {
     {
       name: "Mécanique Générale",
       level: 75,
-      icon: WrenchScrewdriverIcon,
+      icon: CogIcon,
       color: "from-blue-500 to-primary-500"
     },
     {
