@@ -105,9 +105,9 @@ const Navigation = () => {
               }`}
             >
               {isOpen ? (
-                <XMarkIcon className="h-6 w-6" />
+                <XIcon className="h-6 w-6" />
               ) : (
-                <Bars3Icon className="h-6 w-6" />
+                <MenuIcon className="h-6 w-6" />
               )}
             </motion.button>
           </div>
