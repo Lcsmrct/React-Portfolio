@@ -17,7 +17,7 @@ const Experience = () => {
       location: "Formation en alternance",
       description: "Formation pratique en mécanique automobile avec apprentissage des techniques modernes de diagnostic et de réparation.",
       skills: ["Diagnostic", "Réparation moteur", "Système de freinage", "Contrôle qualité"],
-      icon: WrenchScrewdriverIcon,
+      icon: CogIcon,
       color: "bg-primary-500"
     },
     {
