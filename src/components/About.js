@@ -36,7 +36,7 @@ const About = () => {
       color: "text-blue-500"
     },
     {
-      icon: TrophyIcon,
+      icon: StarIcon,
       number: "100%",
       label: "Motivation",
       color: "text-green-500"
