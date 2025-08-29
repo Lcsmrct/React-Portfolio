@@ -12,7 +12,7 @@ import {
 const Services = () => {
   const services = [
     {
-      icon: WrenchScrewdriverIcon,
+      icon: CogIcon,
       title: "Mécanique Générale",
       description: "Entretien courant, révisions et réparations sur tous types de véhicules avec précision et attention aux détails.",
       features: ["Vidanges", "Changement filtres", "Courroies", "Bougies"],
