@@ -44,7 +44,7 @@ const Skills = () => {
     {
       name: "Moteurs",
       level: 70,
-      icon: CogIcon,
+      icon: GlobeIcon,
       color: "from-purple-500 to-indigo-500"
     },
     {
