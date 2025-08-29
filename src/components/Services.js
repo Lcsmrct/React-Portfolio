@@ -1,13 +1,13 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { 
-  WrenchScrewdriverIcon,
+  CogIcon,
   ComputerDesktopIcon,
   TruckIcon,
-  CogIcon,
+  GlobeIcon,
   ShieldCheckIcon,
-  ClipboardDocumentCheckIcon
-} from '@heroicons/react/24/outline';
+  ClipboardCheckIcon
+} from '@heroicons/react/outline';
 
 const Services = () => {
   const services = [
