@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline';
+import { MenuIcon, XIcon } from '@heroicons/react/outline';
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
