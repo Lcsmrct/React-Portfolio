@@ -106,7 +106,7 @@ ${formData.message}
             <motion.div variants={itemVariants}>
               <div className="bg-white rounded-2xl shadow-lg p-8">
                 <div className="flex items-center mb-6">
-                  <ChatBubbleLeftRightIcon className="w-6 h-6 text-primary-500 mr-3" />
+                  <ChatAlt2Icon className="w-6 h-6 text-primary-500 mr-3" />
                   <h3 className="text-2xl font-bold text-gray-800">Envoyez-moi un message</h3>
                 </div>
 
