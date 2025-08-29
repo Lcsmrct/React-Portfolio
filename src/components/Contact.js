@@ -18,7 +18,7 @@ const Contact = () => {
 
   const contactInfo = [
     {
-      icon: EnvelopeIcon,
+      icon: MailIcon,
       title: "Email",
       details: "lucas@lcsmrct.fr",
       link: "mailto:lucas@lcsmrct.fr",
