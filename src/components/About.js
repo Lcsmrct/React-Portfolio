@@ -70,7 +70,7 @@ const About = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-primary-500 to-blue-600 rounded-2xl transform rotate-3"></div>
                 <div className="relative bg-white p-8 rounded-2xl shadow-lg">
                   <div className="w-full h-64 bg-gradient-to-br from-mechanic-100 to-mechanic-200 rounded-xl flex items-center justify-center">
-                    <WrenchScrewdriverIcon className="w-24 h-24 text-primary-500" />
+                    <CogIcon className="w-24 h-24 text-primary-500" />
                   </div>
                 </div>
               </div>
